@@ -1,0 +1,12 @@
+=1.04.0=
+1)增加至Q5
+2)增加結果activity
+
+2013/5/10(by DC)
+
+=1.01.0= 
+1)建立changelog檔
+2)新增version name
+3)version code=1
+
+2013/5/6(by DC)
